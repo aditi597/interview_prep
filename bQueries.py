@@ -12,4 +12,3 @@ for _ in range(q):
             print("ODD")
         else:
             print("EVEN")
-Language: Python 3
